@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f20c10f.chunk.css",
+    "main.js": "/static/js/main.bed62c53.chunk.js",
+    "main.js.map": "/static/js/main.bed62c53.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.53ce62a6.chunk.js": "/static/js/2.53ce62a6.chunk.js",
+    "static/js/2.53ce62a6.chunk.js.map": "/static/js/2.53ce62a6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1ad84640b42d55ec2f3cd3571244081a.js": "/precache-manifest.1ad84640b42d55ec2f3cd3571244081a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1f20c10f.chunk.css.map": "/static/css/main.1f20c10f.chunk.css.map",
+    "static/media/blackPhone.png": "/static/media/blackPhone.b8a156ed.png",
+    "static/media/App.css": "/static/media/pexels.40d26f97.jpeg",
+    "static/media/shadowPhone.png": "/static/media/shadowPhone.28542ea9.png",
+    "static/media/whitePhone.png": "/static/media/whitePhone.35fffd11.png"
+  }
+}
